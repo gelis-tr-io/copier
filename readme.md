@@ -1,6 +1,6 @@
 # Copier App
 
-> Bu repo original olarak @tarikguney tarafından eğitim amaçlı geliştirilmiştir. Aşağıdaki konuların öğretilmesi amaçlanmıştır:
+> Bu repo original olarak [@tarikguney](https://github.com/tarikguney) tarafından eğitim amaçlı geliştirilmiştir. Aşağıdaki konuların öğretilmesi amaçlanmıştır:
 >
 > * **.NET Core** ve **C#** ile dosya değişimlerinin takip izlenmesi ve istenilen aksiyonların alınması.
 > * Basit bir plugin mimarisinin en baştan tasarlanması.
