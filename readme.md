@@ -1,5 +1,12 @@
 # Copier App
 
+> Bu repo original olarak @tarikguney tarafından eğitim amaçlı geliştirilmiştir. Aşağıdaki konuların öğretilmesi amaçlanmıştır:
+>
+> * **.NET Core** ve **C#** ile dosya değişimlerinin takip izlenmesi ve istenilen aksiyonların alınması.
+> * Basit bir plugin mimarisinin en baştan tasarlanması.
+>
+> Uygulamanın geliştirilmesi aşaması adım adım kaydedildi. Merak edenler buradan izleyebilirler: https://www.youtube.com/watch?v=aW8W2gze8JE&list=PL_Z0TaFYSF3LLSRobjiV0y-I18kjRm7cx
+
 ### Note
 *If you'd like to store all the options in a file and have copier app read the options from that file, check out the branch `configfile-experiment`.* The further development will continue from that branch until it is fully merged into `master` branch. For more information, take a look at the `readme.md` file from `configfile-experiment` branch.
 
